@@ -1,5 +1,5 @@
 name: 孙得淼课题组  SUN Research Group
-url: https://sundm9007.github.io/xiaohang007.github.io/
+url: https://sundm9007.github.io/
 
 exclude: [bibble, README.md, Makefile, screenshot.png]
 
@@ -36,7 +36,7 @@ collections:
 navigation:
   - title: 主页 Home
     link: /
-  - title: 科研 Research
+  - title: 活动 Activity
     link: /research.html
-  - title: 论文 Publications
+  - title: 心情 Emotion
     link: /publications.html
